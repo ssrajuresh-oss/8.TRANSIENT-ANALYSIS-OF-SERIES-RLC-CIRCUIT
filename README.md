@@ -21,7 +21,7 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 
 **CIRCUIT DIAGRAM:**
-
+kk
 
 
 
